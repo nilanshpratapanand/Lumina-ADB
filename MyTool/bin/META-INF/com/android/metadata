@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:309         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Redmi/cattail/cattail:11/RP1A.200720.011/V12.5.6.0.RCTINXM:user/release-keys
+post-build-incremental=V12.5.6.0.RCTINXM
+post-sdk-level=30
+post-security-patch-level=2022-07-01
+post-timestamp=1657878664
+pre-device=cattail
