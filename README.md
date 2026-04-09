@@ -45,7 +45,7 @@ For Developers (Build from Source)
 Clone the Repo:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/Lumina-ADB.git
+git clone https://github.com/nilanshpratapanand/Lumina-ADB.git
 Install Dependencies:
 
 Bash
